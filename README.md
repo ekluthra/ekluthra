@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Ekagra! I'm a 3rd year UofT student specializing in Computer Science!
 
-## You can find out more about me from my [personal website](ekluthra.netlify.app)!
+## You can find out more about me from my [personal website](https://ekluthra.netlify.app/)!
 - 🕸️ I'm currently interested in web development
 - 🧮 I love math and am pursuing a math minor
 - 🎸 I love music, and can play the guitar
