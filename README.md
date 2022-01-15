@@ -7,7 +7,8 @@
 
 ### Connect with me:
 
-<img align="left" href="https://www.linkedin.com/in/ekagra-luthra/" alt="linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+<a href="https://www.linkedin.com/in/ekagra-luthra/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" style="width:25px;height:25px;">
+</a>
 
 <br />
 
