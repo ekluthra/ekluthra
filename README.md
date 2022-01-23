@@ -1,6 +1,7 @@
 ### Hi 👋 I'm Ekagra! I'm a 3rd year UofT student specializing in Computer Science!
 
 ## You can find out more about me from my [personal website](https://ekluthra.netlify.app/)!
+
 - 🕸️ I'm currently interested in web development
 - 🧮 I love math and am pursuing a math minor
 - 🎸 I love music, and can play the guitar
@@ -11,6 +12,14 @@
 </a>
 
 ### Languages and frameworks:
+
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img align="left" alt="Javascript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" alt="Java" width="25px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+
+<!-- Frameworks -->
+
+<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
