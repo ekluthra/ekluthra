@@ -1,4 +1,4 @@
-### Hi 👋 I'm Ekagra! I'm a 3rd year UofT student specializing in Computer Science!
+### Hi 👋 I'm Ekagra! I'm a 4th year UofT student specializing in Computer Science!
 
 ## You can find out more about me from my [personal website](https://ekluthra.netlify.app/)!
 
