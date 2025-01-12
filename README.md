@@ -1,6 +1,5 @@
 ## Hi 👋 I'm Ekagra!
-### I'm a recent computer science grad from UofT. 
-### You can find out more about me from my [personal website](https://ekluthra.netlify.app/)!
+### I'm a software engineer and computer science graduate from the University of Toronto. 
 
 ### Connect with me:
 
